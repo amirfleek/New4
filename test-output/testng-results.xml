@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T17:13:24 IST" name="Default suite" finished-at="2023-05-23T17:13:33 IST" duration-ms="9370">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T17:13:24 IST" name="Default test" finished-at="2023-05-23T17:13:33 IST" duration-ms="9370">
+      <class name="TestCase.TestCases">
+        <test-method is-config="true" signature="Aobjects()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:24 IST" name="Aobjects" finished-at="2023-05-23T17:13:28 IST" duration-ms="3648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aobjects -->
+        <test-method signature="BLoginPage()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:28 IST" name="BLoginPage" finished-at="2023-05-23T17:13:29 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BLoginPage -->
+        <test-method signature="CHomePage()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:29 IST" name="CHomePage" finished-at="2023-05-23T17:13:33 IST" duration-ms="4467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CHomePage -->
+      </class> <!-- TestCase.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
