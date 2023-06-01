@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-23T17:13:24 IST" name="Default suite" finished-at="2023-05-23T17:13:33 IST" duration-ms="9370">
+  <suite started-at="2023-06-01T16:42:18 IST" name="Default suite" finished-at="2023-06-01T16:42:27 IST" duration-ms="9488">
     <groups>
     </groups>
-    <test started-at="2023-05-23T17:13:24 IST" name="Default test" finished-at="2023-05-23T17:13:33 IST" duration-ms="9370">
+    <test started-at="2023-06-01T16:42:18 IST" name="Default test" finished-at="2023-06-01T16:42:27 IST" duration-ms="9488">
       <class name="TestCase.TestCases">
-        <test-method is-config="true" signature="Aobjects()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:24 IST" name="Aobjects" finished-at="2023-05-23T17:13:28 IST" duration-ms="3648" status="PASS">
+        <test-method is-config="true" signature="Aobjects()[pri:0, instance:TestCase.TestCases@681e144]" started-at="2023-06-01T16:42:18 IST" name="Aobjects" finished-at="2023-06-01T16:42:21 IST" duration-ms="2505" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Aobjects -->
-        <test-method signature="BLoginPage()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:28 IST" name="BLoginPage" finished-at="2023-05-23T17:13:29 IST" duration-ms="1035" status="PASS">
+        <test-method signature="BLoginPage()[pri:0, instance:TestCase.TestCases@681e144]" started-at="2023-06-01T16:42:21 IST" name="BLoginPage" finished-at="2023-06-01T16:42:21 IST" duration-ms="763" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BLoginPage -->
-        <test-method signature="CHomePage()[pri:0, instance:TestCase.TestCases@7f92b990]" started-at="2023-05-23T17:13:29 IST" name="CHomePage" finished-at="2023-05-23T17:13:33 IST" duration-ms="4467" status="PASS">
+        <test-method signature="CHomePage()[pri:0, instance:TestCase.TestCases@681e144]" started-at="2023-06-01T16:42:21 IST" name="CHomePage" finished-at="2023-06-01T16:42:27 IST" duration-ms="6008" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CHomePage -->

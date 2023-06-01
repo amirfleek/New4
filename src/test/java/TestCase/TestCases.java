@@ -50,6 +50,7 @@ public class TestCases extends Baseclass{
 		System.out.println("Tittle is Verified");
 		L2.clickOnAllItems();
 		L2.clickOnAbout();
+		System.out.println("hii");
 		L2.clickOnSearchBtn();
 		L2.typeInSearch();
 		L2.closeSearchfld();
