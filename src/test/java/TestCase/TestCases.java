@@ -45,13 +45,14 @@ public class TestCases extends Baseclass{
 		System.out.println("Url is verified");
 		}
 	@Test
-	public void CHomePage() {
+	public void CHomePage() throws InterruptedException {
 		Assert.assertEquals(L2.VerifyTitle(),"Swag Labs");
 		System.out.println("Tittle is Verified");
 		L2.clickOnAllItems();
 		L2.clickOnAbout();
 		System.out.println("hii");
-//		L2.clickOnSearchBtn();
+		Thread.sleep(5000);
+		L2.clickOnSearchBtn();
 //		L2.typeInSearch();
 //		L2.closeSearchfld();
 	}
