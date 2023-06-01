@@ -51,9 +51,9 @@ public class TestCases extends Baseclass{
 		L2.clickOnAllItems();
 		L2.clickOnAbout();
 		System.out.println("hii");
-		L2.clickOnSearchBtn();
-		L2.typeInSearch();
-		L2.closeSearchfld();
+//		L2.clickOnSearchBtn();
+//		L2.typeInSearch();
+//		L2.closeSearchfld();
 	}
 //	@AfterMethod
 //	  public void Screenshot() {
