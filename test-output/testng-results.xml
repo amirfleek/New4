@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-08T15:52:49 IST" name="Default suite" finished-at="2023-06-08T15:52:55 IST" duration-ms="6141">
+  <suite started-at="2023-06-09T09:22:27 IST" name="Default suite" finished-at="2023-06-09T09:22:33 IST" duration-ms="5829">
     <groups>
     </groups>
-    <test started-at="2023-06-08T15:52:49 IST" name="Default test" finished-at="2023-06-08T15:52:55 IST" duration-ms="6141">
+    <test started-at="2023-06-09T09:22:27 IST" name="Default test" finished-at="2023-06-09T09:22:33 IST" duration-ms="5829">
       <class name="TestCase.TestCases">
-        <test-method is-config="true" signature="Aobjects()[pri:0, instance:TestCase.TestCases@64b7225f]" started-at="2023-06-08T15:52:49 IST" name="Aobjects" finished-at="2023-06-08T15:52:52 IST" duration-ms="3451" status="PASS">
+        <test-method is-config="true" signature="Aobjects()[pri:0, instance:TestCase.TestCases@6c1832aa]" started-at="2023-06-09T09:22:27 IST" name="Aobjects" finished-at="2023-06-09T09:22:31 IST" duration-ms="3943" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Aobjects -->
-        <test-method signature="BLoginPage()[pri:0, instance:TestCase.TestCases@64b7225f]" started-at="2023-06-08T15:52:52 IST" name="BLoginPage" finished-at="2023-06-08T15:52:54 IST" duration-ms="1693" status="PASS">
+        <test-method signature="BLoginPage()[pri:0, instance:TestCase.TestCases@6c1832aa]" started-at="2023-06-09T09:22:31 IST" name="BLoginPage" finished-at="2023-06-09T09:22:33 IST" duration-ms="1534" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BLoginPage -->
-        <test-method signature="CHomePage()[pri:0, instance:TestCase.TestCases@64b7225f]" started-at="2023-06-08T15:52:54 IST" name="CHomePage" finished-at="2023-06-08T15:52:54 IST" duration-ms="79" status="FAIL">
+        <test-method signature="CHomePage()[pri:0, instance:TestCase.TestCases@6c1832aa]" started-at="2023-06-09T09:22:33 IST" name="CHomePage" finished-at="2023-06-09T09:22:33 IST" duration-ms="33" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Swag Labs1] but found [Swag Labs]]]>
