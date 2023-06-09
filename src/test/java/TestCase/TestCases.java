@@ -46,7 +46,7 @@ public class TestCases extends Baseclass{
 		}
 	@Test
 	public void CHomePage() throws InterruptedException {
-		Assert.assertEquals(L2.VerifyTitle(),"Swag Labs1");
+		Assert.assertEquals(L2.VerifyTitle(),"Swag Labs");
 		System.out.println("Tittle is Verified");
 		L2.clickOnAllItems();
 		L2.clickOnAbout();
